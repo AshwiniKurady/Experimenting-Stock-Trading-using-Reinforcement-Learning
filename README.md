@@ -39,5 +39,5 @@ In addition, we evaluate the model by three different sentiment score calculatio
 ```
 1. Minimum Sentiment Score = $(SentimentScore)^2$
 2. Normal Sentiment Score = SentimentScore
-3. High Sentiment Score = $\sqrt(SentimentScore)$
+3. High Sentiment Score = $\sqrt{SentimentScore}$
 ```
