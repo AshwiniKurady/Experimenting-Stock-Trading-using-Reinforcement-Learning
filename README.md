@@ -12,8 +12,8 @@ we model trading of stocks as a Markov Decision Process (MDP) and our MDP contai
 1. State[s] - Each state is represented as a vector that holds the information regarding the availability of cash, shares of holding stocks, portfolio value, stock value for current time step, sentiment data and so on.
 2. Action[a] - The action space includes buying, selling or holding shares that are owned, with respect to a particular stock.
 3. Reward[r] - Some value that is obtained when certain action is performed.
-4. Policy[$\Pi$] - Policy can be defined as a trading strategy at every state in our MDP. It is nothing but the probability distribution of an action at a given state.
-5. Action-value function [Q$\Pi$(s,a)]- This is an expected reward that is obtained for taking certain action from a state using the policy.
+4. Policy[pi] - Policy can be defined as a trading strategy at every state in our MDP. It is nothing but the probability distribution of an action at a given state.
+5. Action-value function [QPi(s,a)]- This is an expected reward that is obtained for taking certain action from a state using the policy.
 
 ## Methodology
 
