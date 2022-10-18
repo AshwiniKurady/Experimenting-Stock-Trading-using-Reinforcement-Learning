@@ -42,7 +42,7 @@ In addition, we evaluate the model by three different sentiment score calculatio
 3. High Sentiment Score = math.sqrt(SentimentScore)
 ```
 
-##References
+## References
 
 1. T. Grek, “Stock trading using reinforcement learning. [online] available: https://towardsdatascience.com/a- blundering-guide-to-making-a-deep-actor-critic-bot-for- stock-trading-c3591f7e29c2,” Accessed: 01-May-2022
 2. X.-Y. Liu, H. Yang, Q. Chen, R. Zhang, L. Yang, B. Xiao, and C. D. Wang, “Finrl: A deep reinforcement learning library for automated stock trading in quantitative finance,” 2020
