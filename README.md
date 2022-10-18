@@ -37,7 +37,7 @@ For evaluation, we will compare the model with two sets of input - stock prices 
 With different inputs, we train the model under the same architecture and hyper-parameters. Then, we perform number of runs to calculate average profit, average reward obtained and number of successful runs.
 In addition, we evaluate the model by three different sentiment score calculations which are defined as below: 
 ```
-1. Minimum Sentiment Score = $(SentimentScore)^2$
+1. Minimum Sentiment Score = (SentimentScore)^2
 2. Normal Sentiment Score = SentimentScore
-3. High Sentiment Score = $\sqrt{SentimentScore}$
+3. High Sentiment Score = math.sqrt(SentimentScore)
 ```
