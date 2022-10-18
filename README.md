@@ -43,10 +43,10 @@ In addition, we evaluate the model by three different sentiment score calculatio
 ```
 
 ##References
-```
+
 T. Grek, “Stock trading using reinforcement learning. [online] available: https://towardsdatascience.com/a- blundering-guide-to-making-a-deep-actor-critic-bot-for- stock-trading-c3591f7e29c2,” Accessed: 01-May-2022
 X.-Y. Liu, H. Yang, Q. Chen, R. Zhang, L. Yang, B. Xiao, and C. D. Wang, “Finrl: A deep reinforcement learning library for automated stock trading in quantitative finance,” 2020
 Ankthon, “Stock trading using reinforcement learning. [online] available: https://www.geeksforgeeks.org/python- sentiment-analysis-using-vader/,” Accessed: 01-May-2022
 O. Gold, “Deep actor-critic experiment for stock trading amid sentiment and buzz. [online] available: https://www.omergold.com/stocktrading.pdf,” Accessed: 01-May-2022
 K. Suhail, S. Sankar, A. Kumar, T. Nestor, N. Soliman, A. Algarni, W. El-Shafai, and F. Abd El-Samie, “Stock mar- ket trading based on market sentiments and reinforcement learning,” Computers, Materials and Continua, vol. 70, p. 935–950, 09 2021
-```
+
